@@ -1,0 +1,91 @@
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csprojResolveAssemblyReference.cache
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+E:\STUDY\term 3-2\Software engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\3-2 term\Software Engineering\For Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+G:\3-2 term\Software Engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+G:\3-2 term\Software Engineering\For Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\SE Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\SE Project\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+G:\SE Project\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+G:\SE Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+G:\SE Project\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Work.resources
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.StudentProfile.resources
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Prescription.resources
+G:\SE Project\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csprojResolveAssemblyReference.cache
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Prescription.resources
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.StudentProfile.resources
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Work.resources
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+E:\program works\Visual basic\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Execution.resources
+G:\New folder\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+G:\New folder\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+G:\New folder\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\SE final\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\SE final\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+G:\SE final\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+G:\SE final\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+G:\SE final\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Execution.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Prescription.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.StudentProfile.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Work.resources
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+G:\SE final\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csprojResolveAssemblyReference.cache
+G:\SE Final1\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+G:\SE Final1\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+G:\SE Final1\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+G:\SE Final1\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+G:\SE Final1\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csprojResolveAssemblyReference.cache
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Execution.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Prescription.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.StudentProfile.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Work.resources
+G:\SE Final1\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+E:\Code\C# practice\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe.config
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.exe
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.pdb
+E:\Code\C# practice\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter.mdf
+E:\Code\C# practice\KU Medical Center\KU Medical Center\bin\Debug\MedicalCenter_log.ldf
+E:\Code\C# practice\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.exe
+E:\Code\C# practice\KU Medical Center\KU Medical Center\bin\Debug\KU Medical Center.pdb
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csprojResolveAssemblyReference.cache
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Execution.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Prescription.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.StudentProfile.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.User.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Properties.Resources.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Work.resources
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU Medical Center.csproj.GenerateResource.Cache
+E:\Code\C# practice\KU Medical Center\KU Medical Center\obj\Debug\KU_Medical_Center.Bill.resources
